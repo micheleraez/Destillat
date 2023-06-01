@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main>
+        <h1>In unserem Projekt "Destillat" haben wir den Sprachgebrauch englischer Zeitungswebsites analysiert. Durch die Erweiterung "P_3_1_3_05" von Hermann Schmidt wurden die Schlagzeilen von "The Sun" und "The Times" nach Wortarten sortiert und untersucht. In "The Sun" fanden wir 138 Nomen, 52 Präpositionen und 10 possessive Pronomen, während "The Times" lediglich 19 Nomen, 9 Präpositionen und 4 possessive Pronomen aufwies. Dies zeigt den Zusammenhang zwischen Wortarten und dem Kommunikationsstil einer Zeitung, insbesondere in Bezug auf die Funktion von Substantivierungen in prägnanten Schlagzeilen. Eine detaillierte Analyse der Wortarten-Häufigkeit ermöglicht es, die sprachliche Ausrichtung eines Blattes besser zu verstehen und darauf hinzuweisen, wie bestimmte Wortgruppen und Schlagworte die Leserinnen und Leser beeinflussen können. Der direkte Vergleich zwischen den Zeitungen zeigt auch, welchen Themen mehr Aufmerksamkeit gewidmet wird. "Destillat" zielt darauf ab, den sprachlichen Gebrauch verschiedener Medien einfach zu thematisieren und die Leserinnen und Leser für die gezielte Beeinflussung durch bestimmte Schlagworte und Wortgruppen zu sensibilisieren. </h1>
+        
+    </main>
+
+
+
+</body>
+
+</html>
