@@ -19,7 +19,7 @@ body {
 h1 {
     margin: 0;
     padding: 1rem;
-    font-size: 3rem;
+    font-size: 1rem;
     text-align: right;
     position: absolute;
     width: 100%;
@@ -37,7 +37,7 @@ h1 {
 
 .process li {
     color: white;
-    height: 40vh;
+    height: 123vh;
     flex-basis: calc(100vw / var(--anzitems));
     flex-grow: 2;
     flex-shrink: 0;
