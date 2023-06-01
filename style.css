@@ -37,7 +37,7 @@ h1 {
 
 .process li {
     color: white;
-    height: 40vh;
+    height: 100vh;
     flex-basis: calc(100vw / var(--anzitems));
     flex-grow: 2;
     flex-shrink: 0;
@@ -46,7 +46,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-right: 1px solid white;
+    border-right: 20px solid white;
 
 }
 
