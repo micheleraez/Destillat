@@ -46,7 +46,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-right: 20px solid white;
+    border-right: 4px solid white;
 
 }
 
