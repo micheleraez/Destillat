@@ -12,7 +12,7 @@ body {
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    font-family: 'Jost';
+    font-family: 'Helvtica';
 
 }
 
@@ -46,7 +46,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-right: 1px solid white;
+    border-right: 1px;
 
 }
 
