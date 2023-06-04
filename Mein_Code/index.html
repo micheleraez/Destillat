@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+<style>body{
+    height:200vh;
+}
+canvas{
+    position:fixed;
+}</style>
+</head>
+<body>
+<script>
+    let tile=10;
+//p5js
+// Grundstruktur
+// setup wird von der Library einmal zum Start aufgerufen
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+for(let x=0; x < width; x=x+tile){
+    for(let y=0; y < height; y=y+tile){
+
+
+    line(x+tile, y, x, y+tile);
+    console.log(x);
+}
+
+}
+}
+
+
+
+
+
+
+
+
+</script>
+</body>
+</html>
